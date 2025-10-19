@@ -1,3 +1,5 @@
 # Verhaal
 
-The Witcher vertelt het verhaal van Geralt of Rivia, een monsterjager die balanceert tussen goed en kwaad in een wereld vol magie en intriges.
+Het verhaal van Geralt of Rivia is vol avontuur, magie en keuzes met zware gevolgen
+
+Update verhaal.md direct op main via GitHub
